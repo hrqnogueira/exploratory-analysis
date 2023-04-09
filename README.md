@@ -1,1 +1,1 @@
-# exploratory-analisys
+# exploratory-analysis
